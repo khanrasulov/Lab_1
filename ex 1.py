@@ -24,8 +24,17 @@ if al >= bl:
 else:
     modul = bl - al
 
+if a >= b:
+    dif_33 = a**2 - b**2
+    sq_razn = dif_33
+else:
+    dif_3 = b**2 - a**2
+    sq_razn = dif_3
+
 print('Сумма: ', summa)
 print('Разность: ', razn)
 print('Произведение: ', calcul)
 print('Среднее арифметическое: ', sr_arf)
 print('Разность max и min по модулю: ', modul)
+print('Разность квадратов: ', sq_razn)
+
