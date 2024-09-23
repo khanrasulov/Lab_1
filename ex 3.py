@@ -21,8 +21,17 @@ else:
     df_sqb = sq_b - sq_a
     dfsq = df_sqb
 
+if a > b:
+    df_sqaq = sq_a**2 - sq_b**2
+    dfsqq = df_sqaq
+else:
+    df_sqbq = sq_b**2 - sq_a**2
+    dfsqq = df_sqbq
+
 print(rez)
 print('Разность площадей: ', dfsq)
+print(f"Разность площадей квадратов: {dfsqq:.2f}")
+
 
 
 
