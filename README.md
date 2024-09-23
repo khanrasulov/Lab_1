@@ -39,15 +39,17 @@ ___
 
 Тест 1
 
-![image](https://github.com/user-attachments/assets/f4205592-b03d-424c-8f9a-66e8e2ecf363)
+![image](https://github.com/user-attachments/assets/557e20ed-821e-42c0-a016-96c8b6d446d0)
+
 
 Тест 2
 
-![image](https://github.com/user-attachments/assets/2fd0b575-10f6-4caa-b9b0-5e6b689edb33)
+![image](https://github.com/user-attachments/assets/b5bbce86-c32f-48b1-a9f0-96e15bb00baf)
+
 
 Тест 3
 
-![image](https://github.com/user-attachments/assets/7108c379-6a19-48a9-aa7d-d04995f20840)
+![image](https://github.com/user-attachments/assets/8afd8f58-835b-49e7-9d28-a05615d1cf37)
 
 ___
 
@@ -74,15 +76,17 @@ ___
 
 Тест 1
 
-![image](https://github.com/user-attachments/assets/a3820201-5afe-4d83-9fc2-29a812e7d2ea)
+![image](https://github.com/user-attachments/assets/5551a9c2-1444-4fd3-aad0-07f3157c6df8)
+
 
 Тест 2
 
-![image](https://github.com/user-attachments/assets/f2cc89f6-07cb-4e81-bc3c-69516fdd9e8f)
+![image](https://github.com/user-attachments/assets/c616735a-0ce0-4a59-a3fd-87c9e1884581)
+
 
 Тест 3
 
-![image](https://github.com/user-attachments/assets/aecdbb61-b311-46f6-b86c-07cfa118060a)
+![image](https://github.com/user-attachments/assets/93af06ed-d5de-49a1-a917-3dffa88f1d94)
 
 ___
 
@@ -104,15 +108,16 @@ ___
 
 Тест 1
 
-![image](https://github.com/user-attachments/assets/c53ef3ee-aeed-4489-ae04-3aa3cb9ec1c3)
+![image](https://github.com/user-attachments/assets/0d9e70dd-2473-4ffd-a875-58358425820d)
 
 Тест 2
 
-![image](https://github.com/user-attachments/assets/dd2de194-22d1-45a3-966a-70963e95cb34)
+![image](https://github.com/user-attachments/assets/3a54367e-79f6-48b9-8d28-e20fcfa7c217)
 
 Тест 3
 
-![image](https://github.com/user-attachments/assets/4c472170-538b-4905-8368-561a9f5540ea)
+![image](https://github.com/user-attachments/assets/af34b644-adb4-4d5d-9a19-128b40c47830)
+
 
 
 
